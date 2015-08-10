@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="ngViewExample">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title></title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="font/css/font-awesome.css" rel="stylesheet">
+    <link href="css/xibmen.css" rel="stylesheet">
+</head>
+<body style="background-color: #f8f8f8;height: 230px;">
+<div class="pop-main">
+    <div id="blockDomainManage">
+        <div class="section-panel-body section-title" i18n="ppBlockDomainTitle"></div>
+        <div class="domainList">
+            <ul id="domainUl">
+
+            </ul>
+        </div>
+        <div class="section-panel-body">
+            <input id="addBlockDomain" type="button" i18n_value="ppAddBlockedDomain" class="btn btn-add-domain">
+        </div>
+    </div>
+    <div id="currentDomainManage">
+        <div class="section-panel-body section-title" id="currentDomainSectionTitle"></div>
+        <div class="domainList">
+            <ul>
+                <li>
+                    <span id="currnetDomianName" style="text-align: center"></span>
+                </li>
+            </ul>
+        </div>
+        <div class="section-panel-body">
+            <input id="btnAddCurrentDomain" type="button" i18n_value="ppAddCurrentDomain" class="btn btn-add-domain">
+        </div>
+        <div class="section-panel-body">
+            <input id="btnRemoveCurrentDomain" type="button" i18n_value="ppRemoveCurrentDomain"
+                   class="btn btn-add-domain">
+        </div>
+
+    </div>
+    <hr class="section-hr"/>
+    <div class="section-panel-body section-title" i18n="ppProxyMode">
+
+    </div>
+    <div class="section-panel-body">
+        <div class="btn-group" data-toggle="buttons">
+            <label id="lStateOpen" data-toggle="tooltip" i18n_title="ppOpenTip" class="btn btn-popup"
+                   style="width:62px">
+                <input type="radio" id="stateOpen" value="2" name="state"/> <span i18n="ppOpen"></span>
+            </label>
+            <label data-toggle="tooltip" i18n_title="ppHalfOpenTip" class="btn btn-popup" style="width:100px">
+                <input type="radio" id="stateHalfOpen" value="1" name="state" checked="checked"> <span
+                    i18n="ppHalfOpen"></span>
+            </label>
+            <label data-toggle="tooltip" i18n_title="ppCloseTip" class="btn btn-popup" style="width:62px">
+                <input type="radio" id="stateClose" value="0" name="state"> <span i18n="ppClose"></span>
+            </label>
+        </div>
+    </div>
+    <div class="section-panel-body section-help">
+        <a href="#" id="btnOpenOptions" i18n="ppSettingHelp"></a>
+    </div>
+    <div class="vipTip" id="cVipTip">
+        <hr class="section-hr"/>
+        <div class="vipTipBody">
+            <span i18n="ppTipUnlockToVip"></span>&nbsp; <a target="_blank" id="aProductDiff" i18n="ppTextDetail">详情</a>
+            <br/>
+            <input id="btn_buyVipPop" type="submit" i18n_value="ppButtonBuyVip"
+                   class="btn btn-popup">
+        </div>
+
+    </div>
+</div>
+<script src="scripts/lib/jquery.js" type="text/javascript"></script>
+<script src="scripts/front/i18n.js" type="text/javascript"></script>
+<script src="scripts/lib/bootstrap.min.js" type="text/javascript"></script>
+<script src="scripts/front/clientCommon.js" type="text/javascript"></script>
+<script src="scripts/front/popup.js" type="text/javascript"></script>
+</body>
+</html>

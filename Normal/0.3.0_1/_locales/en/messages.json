@@ -1,0 +1,303 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Provide Https proxy service which is very EASY to use. To help you 1) visit website blocked. 2) Hide your original location"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Easy Proxy"
+   },
+   "appNameVerion": {
+      "description": "",
+      "message": "Easy Proxy - Cracked by Kippykip (v0.3.0)"
+   },
+   "btnBecomeVIP": {
+      "message": "Buy Vip... Said no one ever"
+   },
+   "cfConflictDesc": {
+      "message": "We have detected below conflict plugin(s), please go to \u003Ca class='extenPageLink'>Extension Page\u003C/a> to diable it temporarily."
+   },
+   "cfConflictTitle": {
+      "message": "Detected Conflict Plugin"
+   },
+   "connectLossAlertTitle": {
+      "message": "Can't connect to Easy Proxy server, Please:"
+   },
+   "connectLossStep1": {
+      "message": "Check your network"
+   },
+   "connectLossStep2": {
+      "message": "Disable other proxy extension "
+   },
+   "connectLossStep3": {
+      "message": "Restart your browser and try again"
+   },
+   "connectLossStep4": {
+      "message": "You are in a very restrict environment and Easy Proxy can not break"
+   },
+   "connectLossStep5": {
+      "message": "There are some problem for the server, Please wait for a while Or email to xibmen@gmail.com"
+   },
+   "cpConfirmNewPassword": {
+      "message": "Confirm new password:"
+   },
+   "cpCpButton": {
+      "message": "Change"
+   },
+   "cpNewPassword": {
+      "message": "New password:"
+   },
+   "cpOldPassword": {
+      "message": "Old password:"
+   },
+   "cpPanelTitle": {
+      "message": "Change password"
+   },
+   "current_domain_already_in": {
+      "message": "\u003Cb>Current Domain Added\u003C/b>"
+   },
+   "current_domain_needless": {
+      "message": "The current tab has no domain"
+   },
+   "current_domain_no_in": {
+      "message": "\u003Cb>Current Domain\u003C/b>"
+   },
+   "domainAdded": {
+      "message": "Domain added"
+   },
+   "domain_invalid": {
+      "message": "This is not a valid domain"
+   },
+   "ec_inner_error": {
+      "message": "Inner Error , please try again later or contact admin xibmen@gmail.com"
+   },
+   "emailTip": {
+      "message": "Easy Proxy v0.3.0 - Cracked by Kippykip, You should be able to just make some random email and password as it doesn't verify anyway"
+   },
+   "errConfirmPasswordNeeded": {
+      "message": "Please input the confirm password"
+   },
+   "errConfirmPasswordNotSame": {
+      "message": "The confirm password is different with password"
+   },
+   "errConfirmPasswordNotSameNew": {
+      "message": "The confirm password is different with new password"
+   },
+   "errEmailInvalid": {
+      "message": "Please input a valid email"
+   },
+   "errEmailNeeded": {
+      "message": "Please input your account(email)"
+   },
+   "errEmailOccupied": {
+      "message": "Sorry , this email is occupied"
+   },
+   "errNewEmailNeeded": {
+      "message": "Please input a new password"
+   },
+   "errNewPasswordShort": {
+      "message": "The new password should be at least 6 characters"
+   },
+   "errPasswordEmpty": {
+      "message": "Please input your password"
+   },
+   "errPasswordShort": {
+      "message": "The password should be at least 6 characters"
+   },
+   "errPasswordTooLong": {
+      "message": "The password should be at most 20 characters"
+   },
+   "errorNewPasswordLong": {
+      "message": "The new password should be at most 20 characters"
+   },
+   "excludeDomainTip": {
+      "message": "Do not add this domain"
+   },
+   "helpLink": {
+      "message": "Help"
+   },
+   "labelDaysLeft": {
+      "message": "Vip Days:"
+   },
+   "lpLoginPanelAccount": {
+      "description": "",
+      "message": "Account:"
+   },
+   "lpLoginPanelAccountPlaceHolder": {
+      "description": "",
+      "message": "Please input your email as account"
+   },
+   "lpLoginPanelForgetPassword": {
+      "message": "Forget password?"
+   },
+   "lpLoginPanelLoginButton": {
+      "message": "Sign In"
+   },
+   "lpLoginPanelPassword": {
+      "message": "Password:"
+   },
+   "lpLoginPanelPasswordPlaceHolder": {
+      "message": "Please input your password"
+   },
+   "lpLoginPanelRegisterLink": {
+      "message": "Sign up in 10 seconds!"
+   },
+   "lpLoginPanelTitle": {
+      "description": "",
+      "message": "Please login to Easy Proxy"
+   },
+   "lpMsgQuit": {
+      "message": "Logout success!"
+   },
+   "lpTitle": {
+      "description": "title of login page ",
+      "message": "Easy proxy-Login"
+   },
+   "opAccount": {
+      "message": "My Account"
+   },
+   "opChangePassSuccess": {
+      "message": "Change password success!"
+   },
+   "opChangePassword": {
+      "message": "Change Password"
+   },
+   "opColDaomain": {
+      "message": "Domain using proxy"
+   },
+   "opColDesc": {
+      "message": "Title"
+   },
+   "opDomainWhitList": {
+      "message": "OnDemand Domain List"
+   },
+   "opFreeDomainWhitList": {
+      "message": "Free Domain List(Active)"
+   },
+   "opHelp": {
+      "message": "Help"
+   },
+   "opMsgLoginSuccess": {
+      "message": "Sign in successfully!"
+   },
+   "opMsgRegisterLoginSuccess": {
+      "message": "You have sign up and login successfully!"
+   },
+   "opMsgRegisterLoginSucess": {
+      "message": "You have already sign up and sign in successfully!"
+   },
+   "opMyXbm": {
+      "message": "My Easy Proxy"
+   },
+   "opNeedVip": {
+      "message": "Only Vip can do this operation"
+   },
+   "opNumber": {
+      "message": "#"
+   },
+   "opOrderAmount": {
+      "message": "Amount"
+   },
+   "opOrderDays": {
+      "message": "Days Bought"
+   },
+   "opOrderList": {
+      "message": "Order List"
+   },
+   "opOrderNo": {
+      "message": "Order Id"
+   },
+   "opOrderPaymentMethod": {
+      "message": "Payment Method"
+   },
+   "opOrderStatus": {
+      "message": "Status"
+   },
+   "opOrderTime": {
+      "message": "Time"
+   },
+   "opQuit": {
+      "message": "Logout"
+   },
+   "opTitle": {
+      "message": "Easy proxy setting"
+   },
+   "op_domain_vip_tip": {
+      "message": "(Available for Vip)"
+   },
+   "plConfirmPassword": {
+      "message": "Confirm password"
+   },
+   "plEmail": {
+      "message": "Email"
+   },
+   "plOldPassword": {
+      "message": "Old password"
+   },
+   "plPassword": {
+      "message": "Password"
+   },
+   "ppAddBlockedDomain": {
+      "message": "Add To OnDemand List"
+   },
+   "ppAddCurrentDomain": {
+      "message": "Add To OnDemand List"
+   },
+   "ppBlockDomainTitle": {
+      "message": "\u003Cb>Domains seem being blocked\u003C/b>"
+   },
+   "ppButtonBuyVip": {
+      "message": "Buy VIP"
+   },
+   "ppClose": {
+      "message": "Close"
+   },
+   "ppCloseTip": {
+      "message": "No website will use Easy Proxy"
+   },
+   "ppHalfOpen": {
+      "message": "OnDemand"
+   },
+   "ppHalfOpenTip": {
+      "message": "Website in domain OnDemand list will use Easy Proxy"
+   },
+   "ppOpen": {
+      "message": "Open"
+   },
+   "ppOpenTip": {
+      "message": "All website will use Easy Proxy"
+   },
+   "ppProxyMode": {
+      "message": "\u003Cb>Proxy Model\u003C/b>"
+   },
+   "ppRemoveCurrentDomain": {
+      "message": "Remove From OnDemand List"
+   },
+   "ppSettingHelp": {
+      "message": "Setting&nbsp;&&nbsp;Help"
+   },
+   "ppTextDetail": {
+      "message": "Detail"
+   },
+   "ppTipUnlockToVip": {
+      "message": "Become Vip then you can use \u003Cbr/>[Domain Edting] and [Open Mode]"
+   },
+   "rgAccount": {
+      "message": "Account:"
+   },
+   "rgConfirmPassword": {
+      "message": "Confirm password:"
+   },
+   "rgPanelTitle": {
+      "message": "Please input register info"
+   },
+   "rgPassword": {
+      "message": "Password:"
+   },
+   "rgRegisterButton": {
+      "message": "Sign Up"
+   },
+   "rgTitle": {
+      "message": "Sign Up"
+   }
+}

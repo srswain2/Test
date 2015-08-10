@@ -1,0 +1,1 @@
+$(function(){$.each(_cf.getConflict(),function(e,t){var n="";t.icons.length>0&&(n=t.icons[0]);var r='<li><img src="'+n.url+'"/> <a class="extenPageLink"> '+t.name+" </a></li>";$(r).appendTo($("#conflictUl"))}),$(".extenPageLink").click(function(){chrome.tabs.create({url:"chrome://extensions"},function(e){})})});

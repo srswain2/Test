@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "bg.html"
+   },
+   "browser_action": {
+      "default_icon": "image/i_close.png",
+      "default_title": "__MSG_appName__"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval' http://127.0.0.1 https://ssl.google-analytics.com; object-src 'self';",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "image/icon128.png",
+      "16": "image/icon16.png",
+      "48": "image/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxhcOP+KY99u2lH32pU5szjw6ROFYEsDCTF9OuokeL7CQr3loIPQ+cnMpGjpQR7+/uzq598ZKeQ9EoXWe0TnGMYvC5N8Vc99QArPiHGZhE4BhCQT7OvVce1rfKIhwegohFAfOfshqkELKhOwnyavumLHYFxmc7VDfLydyDitytQ3ow4PAb4EZhh+bPams+p1uG8Bd3IwCofTDCuVjwDhJ/BT7OlgYF4sxn+dXjwdvKsfF+3twbQJvq2t2uo+uKmnIcx/+u+ftAPNFtVszEqlRKP6vs45PE3uoZvIDTJDhibxOFG4rVUGL5CmPNKglE/BbTQ8oNw5Uy936FanJPeZN5wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "32",
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "management", "proxy", "idle", "tabs", "cookies", "notifications", "webRequest", "webRequestBlocking", "storage", "http://*/", "alarms", "https://*/" ],
+   "version": "0.3.0"
+}

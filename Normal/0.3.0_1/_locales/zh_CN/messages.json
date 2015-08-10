@@ -1,0 +1,303 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "google , facebook, twitter, instagram.......... 你懂的"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "西便门"
+   },
+   "appNameVerion": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "西便门 v0.3.0"
+   },
+   "btnBecomeVIP": {
+      "message": "续费Vip"
+   },
+   "cfConflictDesc": {
+      "message": "我们检测到以下冲突插件, 请进入 \u003Ca class='extenPageLink'>插件设置\u003C/a>界面,将其暂时禁用!"
+   },
+   "cfConflictTitle": {
+      "message": "检测到冲突插件"
+   },
+   "connectLossAlertTitle": {
+      "message": "无法连接服务器, 请您尝试以下方法"
+   },
+   "connectLossStep1": {
+      "message": "检查您的网络, 并且检查您的Easy Proxy 是否最新版本, 如果需要请从chrome商店或者cn.getqq.info 上进行更新"
+   },
+   "connectLossStep2": {
+      "message": "暂时禁用其他代理插件"
+   },
+   "connectLossStep3": {
+      "message": "重启您的浏览器"
+   },
+   "connectLossStep4": {
+      "message": "您可能出在一个更加严格受限制的环境里面"
+   },
+   "connectLossStep5": {
+      "message": "可能是服务有问题了请您稍等一下,或者email 至 xibmen@gmail.com"
+   },
+   "cpConfirmNewPassword": {
+      "message": "确认新密码:"
+   },
+   "cpCpButton": {
+      "message": "修改"
+   },
+   "cpNewPassword": {
+      "message": "新密码:"
+   },
+   "cpOldPassword": {
+      "message": "原密码:"
+   },
+   "cpPanelTitle": {
+      "message": "修改密码"
+   },
+   "current_domain_already_in": {
+      "message": "当前域名已经在按需列表"
+   },
+   "current_domain_needless": {
+      "message": "当前域名不需要添加"
+   },
+   "current_domain_no_in": {
+      "message": "当前域名"
+   },
+   "domainAdded": {
+      "message": "域名已添加"
+   },
+   "domain_invalid": {
+      "message": "不是一个有效的域名"
+   },
+   "ec_inner_error": {
+      "message": "访问错误,请检查您的网络,或者联系管理员 xibmen@gmail.com."
+   },
+   "emailTip": {
+      "message": "西便门 v0.3.0, 如有任何问题请 email 至 xibmen@gmail.com, 或者访问"
+   },
+   "errConfirmPasswordNeeded": {
+      "message": "请输入确认密码"
+   },
+   "errConfirmPasswordNotSame": {
+      "message": "确认密码和密码不同"
+   },
+   "errConfirmPasswordNotSameNew": {
+      "message": "确认密码和新密码不同"
+   },
+   "errEmailInvalid": {
+      "message": "请输入有效的邮箱号码"
+   },
+   "errEmailNeeded": {
+      "message": "请输入有效的邮箱号码"
+   },
+   "errEmailOccupied": {
+      "message": "此邮箱已经被占用"
+   },
+   "errNewEmailNeeded": {
+      "message": "请输入新密码"
+   },
+   "errNewPasswordShort": {
+      "message": "新密码至少6个字符"
+   },
+   "errPasswordEmpty": {
+      "message": "请输入密码"
+   },
+   "errPasswordShort": {
+      "message": "密码至少6个字符"
+   },
+   "errPasswordTooLong": {
+      "message": "密码不要超过20个字符"
+   },
+   "errorNewPasswordLong": {
+      "message": "新密码不要超过20个字符"
+   },
+   "excludeDomainTip": {
+      "message": "不添加此域名"
+   },
+   "helpLink": {
+      "message": "帮助"
+   },
+   "labelDaysLeft": {
+      "message": "剩余Vip天数:"
+   },
+   "lpLoginPanelAccount": {
+      "description": "",
+      "message": "账号:"
+   },
+   "lpLoginPanelAccountPlaceHolder": {
+      "description": "",
+      "message": "请输入您的邮箱作为账号"
+   },
+   "lpLoginPanelForgetPassword": {
+      "message": "忘记密码?"
+   },
+   "lpLoginPanelLoginButton": {
+      "message": "登陆"
+   },
+   "lpLoginPanelPassword": {
+      "message": "密码:"
+   },
+   "lpLoginPanelPasswordPlaceHolder": {
+      "message": "请输入密码:"
+   },
+   "lpLoginPanelRegisterLink": {
+      "message": "还没有西便门账号,点此10秒注册"
+   },
+   "lpLoginPanelTitle": {
+      "description": "",
+      "message": "请登录西便门"
+   },
+   "lpMsgQuit": {
+      "message": "您已经成功退出西便门."
+   },
+   "lpTitle": {
+      "description": "title of login page ",
+      "message": "西便门-登录"
+   },
+   "opAccount": {
+      "message": "我的西便门"
+   },
+   "opChangePassSuccess": {
+      "message": "密码修改成功!"
+   },
+   "opChangePassword": {
+      "message": "修改密码"
+   },
+   "opColDaomain": {
+      "message": "科学上网域名"
+   },
+   "opColDesc": {
+      "message": "网站标题"
+   },
+   "opDomainWhitList": {
+      "message": "按需上网列表"
+   },
+   "opFreeDomainWhitList": {
+      "message": "免费上网列表(使用中)"
+   },
+   "opHelp": {
+      "message": "使用教程"
+   },
+   "opMsgLoginSuccess": {
+      "message": "登录成功!"
+   },
+   "opMsgRegisterLoginSuccess": {
+      "message": "您已经注册并且登陆成功"
+   },
+   "opMsgRegisterLoginSucess": {
+      "message": "您已经注册并且登录成功!"
+   },
+   "opMyXbm": {
+      "message": "我的西便门"
+   },
+   "opNeedVip": {
+      "message": "您需要成为vip才能执行此操作"
+   },
+   "opNumber": {
+      "message": "序号"
+   },
+   "opOrderAmount": {
+      "message": "金额"
+   },
+   "opOrderDays": {
+      "message": "购买天数"
+   },
+   "opOrderList": {
+      "message": "我的订单"
+   },
+   "opOrderNo": {
+      "message": "编号"
+   },
+   "opOrderPaymentMethod": {
+      "message": "支付方式"
+   },
+   "opOrderStatus": {
+      "message": "状态"
+   },
+   "opOrderTime": {
+      "message": "时间"
+   },
+   "opQuit": {
+      "message": "退出登录"
+   },
+   "opTitle": {
+      "message": "西便门设置"
+   },
+   "op_domain_vip_tip": {
+      "message": "(成为VIP后生效)"
+   },
+   "plConfirmPassword": {
+      "message": "重复密码"
+   },
+   "plEmail": {
+      "message": "邮箱"
+   },
+   "plOldPassword": {
+      "message": "原密码"
+   },
+   "plPassword": {
+      "message": "密码"
+   },
+   "ppAddBlockedDomain": {
+      "message": "添加到按需上网列表"
+   },
+   "ppAddCurrentDomain": {
+      "message": "添加到按需上网列表"
+   },
+   "ppBlockDomainTitle": {
+      "message": "疑似无法访问的域名"
+   },
+   "ppButtonBuyVip": {
+      "message": "升级VIP"
+   },
+   "ppClose": {
+      "message": "关闭"
+   },
+   "ppCloseTip": {
+      "message": "所有网站都不使用西便门上网"
+   },
+   "ppHalfOpen": {
+      "message": "按需上网"
+   },
+   "ppHalfOpenTip": {
+      "message": "按需上网列表中的网站会通过西便门上网"
+   },
+   "ppOpen": {
+      "message": "敞开"
+   },
+   "ppOpenTip": {
+      "message": "所有网站通过西便门上网"
+   },
+   "ppProxyMode": {
+      "message": "选择上网模式"
+   },
+   "ppRemoveCurrentDomain": {
+      "message": "从按需上网列表删除"
+   },
+   "ppSettingHelp": {
+      "message": "设置&nbsp;&&nbsp;帮助"
+   },
+   "ppTextDetail": {
+      "message": "详情"
+   },
+   "ppTipUnlockToVip": {
+      "message": "成为vip才能使用\u003Cbr/>[域名编辑] 和 [敞开模式]"
+   },
+   "rgAccount": {
+      "message": "账号:"
+   },
+   "rgConfirmPassword": {
+      "message": "重复密码:"
+   },
+   "rgPanelTitle": {
+      "message": "请填写您的注册信息"
+   },
+   "rgPassword": {
+      "message": "密码:"
+   },
+   "rgRegisterButton": {
+      "message": "注册"
+   },
+   "rgTitle": {
+      "message": "注册西便门"
+   }
+}
